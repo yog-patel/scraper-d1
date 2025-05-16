@@ -13,8 +13,6 @@ const {
 async function main() {
 
     const urls = [
-    "https://www.mvlempyr.com/novel/reincarnated-in-the-astral-world",
-    "https://www.mvlempyr.com/novel/reincarnated-in-the-villainous-lust-system",
     "https://www.mvlempyr.com/novel/reincarnated-into-a-new-world-as-a-vampire",
     "https://www.mvlempyr.com/novel/reincarnated-into-a-werewolf-the-demon-lord-servants",
     "https://www.mvlempyr.com/novel/reincarnated-lord-i-can-upgrade-everything",
